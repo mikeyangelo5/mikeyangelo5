@@ -1,5 +1,5 @@
 ### Hi there 👋
-💻I am a Junior Full-Stack Web Programmer <br>🔭 I’m currently working on developing a project to manage relationship between a university and students <br>📍I am living in Yogyakarta, Indonesia
+💻I am a Junior Full-Stack Web Programmer <br>🔭 I’m currently working on developing a project to manage relationship between a university and students <br>📍I am currently based in Yogyakarta, Indonesia
 
 
 ### 💻 Tech Stack:
