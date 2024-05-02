@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a junior full-stack web programmer<br>🔭 Currently working on a project to manage relations between a university and their students<br>📍 I'm currently based in Yogyakarta, Indonesia
+💻 I'm a junior software developer<br>📍 Based in Yogyakarta, Indonesia
 
 
 ## 🌐 Socials:
